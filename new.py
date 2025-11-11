@@ -14,10 +14,10 @@ from oxapay_api.SyncOxaPay import SyncOxaPay  # CORRECTED IMPORT
 # Bot credentials
 API_ID = '24839357'
 API_HASH = '4c7ac3d774fd95bf81d3924cf012978b'
-BOT_TOKEN = '7693026027:AAGZClqTAP5BxMXou_kSqabIswyAJPvwCi0'
+BOT_TOKEN = '8443046198:AAHnGiZkvoCbk7A2r8tSO4a03oAn4xfWMys'
 
 # OxaPay Configuration
-OXAPAY_MERCHANT_KEY = 'NBOZLB-6FE14E-LNG1C0-XPTDVN'  # Your actual merchant key
+OXAPAY_MERCHANT_KEY = 'PEQP30-4KUD6S-BMNIPW-H3LQB5'  # Your actual merchant key
 
 # Initialize OxaPay client
 try:
